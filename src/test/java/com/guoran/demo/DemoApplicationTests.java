@@ -71,7 +71,7 @@ public class DemoApplicationTests {
         subQuickSort(arrays, middleIndex + 1, end);
 
         //稍微动一下代码
-        //嘻嘻
+
     }
 
 
