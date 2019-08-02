@@ -69,6 +69,8 @@ public class DemoApplicationTests {
         int middleIndex = subQuickSortCore(arrays, start, end);
         subQuickSort(arrays, start, middleIndex - 1);
         subQuickSort(arrays, middleIndex + 1, end);
+
+        //稍微动一下代码
     }
 
 
