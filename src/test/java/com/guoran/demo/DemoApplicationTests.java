@@ -49,6 +49,15 @@ public class DemoApplicationTests {
 
     }
 
+    @Test
+    public void test03(){
+        String str = "130204176009132510";
+
+
+        System.out.println(str.substring(12));
+
+    }
+
 
     private void quickSort(int[] arrays)
     {

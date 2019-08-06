@@ -8,6 +8,7 @@ public class pageController {
 
     @GetMapping("hello")
     public String hello(){
+        System.out.println("嘻嘻");
         return "index";
     }
 }
